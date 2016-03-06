@@ -1,0 +1,9 @@
+[Core]
+Name = Chatfluence
+Module = chatfluence
+
+[Documentation]
+Description = An Err plugin for confluence.
+
+[Python]
+Version = 3
